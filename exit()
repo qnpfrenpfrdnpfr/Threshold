@@ -1,0 +1,92 @@
+[33md432b46[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m Create LICENSE
+[33m5398a21[m Merge pull request #6 from dnddnjs/pyramid
+[33me09574b[m Merge branch 'pyramid' of https://github.com/dnddnjs/pytorch-cifar10 into pyramid
+[33m6b6100d[m add tensorboardx to shake-shake
+[33ma817c02[m Update README.md
+[33mcd575eb[m Update README.md
+[33mda776cb[m Update README.md
+[33mfc8ab04[m Delete utils-checkpoint.py
+[33me323dce[m Delete train-checkpoint.py
+[33m5daa70b[m Delete model-checkpoint.py
+[33md973ed3[m change resnet
+[33m33599af[m edit pyramidenet
+[33ma342de1[m update resnet model code for cifar-10
+[33mf5b465f[m Update README.md
+[33m16f721c[m Merge pull request #5 from dhkim0225/enas
+[33me60dbca[m fix critical bug, add grad_clip, add auxiliary_loss, add_dropout
+[33mfcebbf7[m fix critical bug, add grad_clip, add auxiliary_loss, add_dropout
+[33m4d6b888[m fix critical bug, add grad_clip, add auxiliary_loss, add_dropout
+[33m54bb565[m edit child
+[33m6f1abc7[m edit child
+[33m3ebaff8[m edit resnet
+[33m5042e65[m train final child
+[33m668b876[m fix main logic
+[33md8300c7[m change F.tanh to torch.tanh
+[33mc2df5c3[m change node class and enas conv function and add he initialiazation
+[33m54f5eef[m every loop initialize hidden states of controller
+[33m9732801[m Merge pull request #4 from dhkim0225/enas
+[33mfa0b223[m entropy_bonus.detach() on train.py
+[33mad53c8e[m entropy_bonus.detach() on train.py
+[33mdbe55df[m change controller initialize
+[33m0fb6c06[m use controller's output every child inference
+[33m7d67653[m edit little
+[33ma2c295f[m load previous saved state dict of child model to continue learning
+[33m32b2d11[m load previous saved state dict of child model to continue learning
+[33m8141f6a[m minor change
+[33m5c2ecb0[m minor change
+[33m5fb3b8e[m minor change
+[33m762c29b[m minor change
+[33me183d14[m minor change
+[33mfc95f32[m minor change
+[33m75c9513[m minor change
+[33m35b06ed[m minor change
+[33m0ecd1c8[m minor change
+[33m9f41579[m minor change
+[33m1142a0e[m minor change
+[33m5553339[m minor change
+[33ma8ce363[m make child: now make architecture of child model is possible
+[33mc714b30[m make child: now make architecture of child model is possible
+[33m38a682c[m make child: now make architecture of child model is possible
+[33mf6c31b8[m edit controller: add attention part
+[33madc2e76[m edit main function: training part
+[33maf100a5[m make micro controller for conv model
+[33m107ccb1[m Update README.md
+[33m028b2e2[m Delete log.txt
+[33m5f57412[m add shake drop
+[33m24b56ea[m print best accuracy
+[33m5ec16c2[m fix conflict
+[33mf3305e2[m change model.py
+[33m041e2b2[m edit main code to print every 10 iteration
+[33m5a35f3f[m Merge branch 'master' of https://github.com/dnddnjs/pytorch-cifar10
+[33m013aa58[m Merge branch 'master' of https://github.com/dnddnjs/pytorch-cifar10
+[33m2062ccc[m add pyramidnet
+[33ma675691[m Merge branch 'master' of https://github.com/dnddnjs/pytorch-cifar10
+[33me31b3e2[m edit model for test
+[33m09fe7b3[m Update README.md
+[33m054d9c3[m Update README.md
+[33m09e83ae[m change shake shake folder name
+[33ma13aae7[m add cosine annealing optimizer
+[33m6b5a0e0[m add cosine annealing optimizer
+[33m73de911[m add shake shake
+[33mf547b68[m edit densenet model k=12, L=100
+[33m206d0a9[m edit densenet model k=28, L=250
+[33m2823107[m edit densenet model k=40, L=190
+[33m647c16c[m edit the number of layers [L=100, k=12]
+[33m88d86a4[m edit the number of layers [L=100, k=12]
+[33mffcea07[m minor change on model code
+[33m6c323df[m Merge branch 'master' of https://github.com/dnddnjs/pytorch-cifar10
+[33ma52f6a3[m edit densenet
+[33m26075e9[m edit densenet
+[33m4c1bebc[m Update README.md
+[33me15852d[m add wide resnet
+[33mac46a50[m split resnet and densenet
+[33mae6cc46[m add densenet
+[33m07e6982[m accuracy 93%
+[33mf90d430[m train model with gpu
+[33mf6c9a72[m add resnet
+[33m4c1e8d3[m add resnet model
+[33md587391[m add resnet
+[33m31ce26b[m edit readme
+[33m7e36102[m make folders
+[33mbaab277[m Update README.md
+[33m5f70bd1[m Initial commit
